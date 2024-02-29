@@ -1,0 +1,12 @@
+# ninja log v5
+1	743	7129462588230890	build.ninja	ffea184c3ef499af
+4	946	6734444328759935	CMakeFiles/Laborator9.dir/main.cpp.obj	bade1250b56d8a0
+1303	1593	6734444335321252	Laborator9.exe	f4f4c99a8514f426
+27	1188	6734444331259386	CMakeFiles/Laborator9.dir/Tests/Tests.cpp.obj	663e996ff4054b17
+23	1303	6734444332352854	CMakeFiles/Laborator9.dir/UserInterface/UserInterface.cpp.obj	72478f0048fa9466
+6	499	6729515561026552	CMakeFiles/Laborator9.dir/Domain/Product.cpp.obj	468e977c87b2ce99
+8	648	7129462867729714	CMakeFiles/Laborator9.dir/Domain/Product.cpp.obj	7cf95616bc0f2364
+1	1020	7129462871433969	CMakeFiles/Laborator9.dir/main.cpp.obj	19aee914bab4836f
+14	1247	7129462873707968	CMakeFiles/Laborator9.dir/Tests/Tests.cpp.obj	96069036a9853ba9
+21	1399	7129462875217139	CMakeFiles/Laborator9.dir/UserInterface/UserInterface.cpp.obj	7bdecd1c9a8eda28
+1399	1685	7129462878052508	Laborator9.exe	62bd2ac910eb9856
